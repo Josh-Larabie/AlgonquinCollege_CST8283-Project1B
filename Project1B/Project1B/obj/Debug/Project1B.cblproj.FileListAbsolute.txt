@@ -1,0 +1,5 @@
+C:\Users\Admin\Copy\School (Level 3)\Business Programming CST8283\Project1B\Project1B\bin\Debug\Project1B.exe
+C:\Users\Admin\Copy\School (Level 3)\Business Programming CST8283\Project1B\Project1B\bin\Debug\Project1B.pdb
+C:\Users\Admin\Copy\School (Level 3)\Business Programming CST8283\Project1B\Project1B\obj\Debug\Project1B.cblprojResolveAssemblyReference.cache
+C:\Users\Admin\Copy\School (Level 3)\Business Programming CST8283\Project1B\Project1B\obj\Debug\Project1B.exe
+C:\Users\Admin\Copy\School (Level 3)\Business Programming CST8283\Project1B\Project1B\obj\Debug\Project1B.pdb
